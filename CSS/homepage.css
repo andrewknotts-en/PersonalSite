@@ -128,3 +128,28 @@ z-index: 0;
     border-right: .5px solid white;
 }
 
+
+/*////////////////*/
+/* BIG NAME */
+/*////////////////*/
+
+.home-big-name {
+  font-family: "Pixelify Sans", sans-serif;
+  font-size: 20vw;
+}
+
+
+/*////////////////*/
+/* PIXEL TRAIL */
+/*////////////////*/
+.pixel-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: -1;
+}
+
