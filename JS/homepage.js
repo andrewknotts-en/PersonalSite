@@ -31,7 +31,7 @@ const pixelSize = 10;
         }
       }
     }
-
+ 
 
 
     function mouseMoved() {
